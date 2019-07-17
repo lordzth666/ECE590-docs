@@ -1,0 +1,2 @@
+# ECE590-docs
+Documents for ECE590: COMP ENG ML &amp; DEEP NEURAL NETS
